@@ -1,0 +1,14 @@
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\bin\Debug\net8.0\MonProjetDotNet.exe
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\bin\Debug\net8.0\MonProjetDotNet.deps.json
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\bin\Debug\net8.0\MonProjetDotNet.runtimeconfig.json
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\bin\Debug\net8.0\MonProjetDotNet.dll
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\bin\Debug\net8.0\MonProjetDotNet.pdb
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\obj\Debug\net8.0\MonProjetDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\obj\Debug\net8.0\MonProjetDotNet.AssemblyInfoInputs.cache
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\obj\Debug\net8.0\MonProjetDotNet.AssemblyInfo.cs
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\obj\Debug\net8.0\MonProjetDotNet.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\obj\Debug\net8.0\MonProjetDotNet.dll
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\obj\Debug\net8.0\refint\MonProjetDotNet.dll
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\obj\Debug\net8.0\MonProjetDotNet.pdb
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\obj\Debug\net8.0\MonProjetDotNet.genruntimeconfig.cache
+C:\Users\DeLL\Desktop\.net\MonProjetDotNet\MonProjetDotNet\obj\Debug\net8.0\ref\MonProjetDotNet.dll
